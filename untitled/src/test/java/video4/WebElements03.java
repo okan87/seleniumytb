@@ -30,13 +30,14 @@ public class WebElements03 {
 
 //        3.  Write down how many button there are
         List<WebElement> buttonLists = driver.findElements(By.tagName("button"));
-        System.out.println(buttonLists.size() + "buttons available");
+        System.out.println(buttonLists.size() + " buttons available");
 
 //        4.  Write the text on each button on the page
         for (WebElement each: buttonLists) {
             System.out.println(each.getText());
         }
 
-
+//        5.  Close the page
+        driver.close();
     }
 }
