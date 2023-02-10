@@ -9,4 +9,7 @@ This project has been created for general information about selenium.
 
 *Video3  ==> Learning to using (By.xpath).----Theoretical lectures.
 
-*video4  ==> WebElement methods.
+*Video4  ==> WebElement methods.
+
+*Video5  ==> Junit annotations-(BeforeClass-AfterClass-Before-After-Test-Ignore).
+
