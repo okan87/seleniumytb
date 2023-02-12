@@ -17,3 +17,4 @@ This project has been created for general information about selenium.
 
 *Video7  ==> Assert examples
 
+*Video8  ==> Use of Action
