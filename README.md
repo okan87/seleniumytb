@@ -13,3 +13,7 @@ This project has been created for general information about selenium.
 
 *Video5  ==> Junit annotations-(BeforeClass-AfterClass-Before-After-Test-Ignore).
 
+*Video6  ==> Use of Assert
+
+*Video7  ==> Assert examples
+
